@@ -12,7 +12,7 @@
 - Software Engineer @ <a href="https://godigitaltc.com/">GDTC</a>
 - This is my Github Profile.😉
 - I love building Django+React/Angular application, deep dive into data insights 💙.
-- Reach me out at <a href="https://www.linkedin.com/in/mamtaguptasde/">Linkedin</a> or Email me at mamtag962000@gmail.com 🙌
+- Reach out at <a href="https://www.linkedin.com/in/mamtaguptasde/">Linkedin</a> or Email me at mamtag962000@gmail.com 🙌
 - This is my <a href="https://drive.google.com/file/d/1N6TKpXP5rYxwRaCSnWkmpOW1MyfcTLW5/view?usp=share_link">Resume</a> 😊
 
 <!-- - I am also trying my hands on AWS console and terraform.💚 -->
